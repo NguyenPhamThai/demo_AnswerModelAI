@@ -156,3 +156,5 @@ fastapi-huggingface-demo/
 - The GPT-2 model is loaded into memory on startup, which may take a few seconds
 - Text generation parameters are set to reasonable defaults but can be adjusted in `model.py`
 - The model runs on CPU by default; change `device=-1` to `device=0` in `model.py` for GPU usage (if available)
+## Demo Youtube
+- https://youtu.be/XYRE4ztpkvs
